@@ -1,21 +1,21 @@
 # My CV
 ## Contact Information
-123-456-7890
-evanslil000@mysbisd.org
+123-456-7890 <br>
+evanslil000@mysbisd.org <br>
 ## Education
-Kirk Elementary
-Sherwood Elementary
-Westchester Academy for International Studies
+Kirk Elementary <br>
+Sherwood Elementary <br>
+Westchester Academy for International Studies <br>
 ## Languages
-English
-French
+English <br>
+French <br>
 ## Extracurriculars
-Westchester Dance Team
-GSSJC
-National Honor Society
-STUCO
+Westchester Dance Team <br>
+GSSJC <br>
+National Honor Society <br>
+STUCO <br>
 ## Volunteering
-GSSJC
-Houston Food Bank
+GSSJC <br>
+Houston Food Bank <br>
 ## Projects
-Working on Personal Project
+Working on Personal Project <br>
