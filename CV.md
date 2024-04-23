@@ -1,3 +1,5 @@
+<link>styles.css</link>
+
 # My CV
 ## Contact Information
 123-456-7890 <br>
